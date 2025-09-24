@@ -6,6 +6,9 @@ This repository contains a Google Colab notebook that demonstrates traffic analy
 
 The notebook explores real-world traffic patterns, applies data preprocessing, builds models, and visualizes results to gain insights into how traffic volume changes over time.
 
+DATASET: Uploaded Metro_Interstate_Traffic_Volume.csv
+
+
 🛠️ Features
 
 Data preprocessing and cleaning
