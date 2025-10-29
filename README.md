@@ -53,7 +53,7 @@ Designed for learning and experimenting with traffic prediction using ML and vis
 ------------------
 
 
-## **for complete expalantion of project see below**
+## **For complete explantion of project see below**
 
 
 ## **Project Overview**
